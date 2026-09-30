@@ -1,0 +1,5 @@
+CREATE DATABASE RetailETL;
+GO
+
+USE RetailETL;
+GO

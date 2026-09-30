@@ -1,0 +1,5 @@
+SalesID,CustomerID,ProductID,OrderDate,Quantity,ExceptionReason
+1005,5,106,2026-01-20,0,Invalid Quantity
+1008,8,999,2026-02-11,2,Invalid ProductID
+1016,9,106,2026-03-25,2,Duplicate SalesID
+1016,9,106,2026-03-25,2,Duplicate SalesID

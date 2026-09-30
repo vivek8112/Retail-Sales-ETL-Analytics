@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,UnitPrice,CostPrice
+101,Laptop,Electronics,55000,42000
+102,Wireless Mouse,Accessories,1200,800
+103,Keyboard,Accessories,1800,1200
+104,Monitor,Electronics,15000,11000
+105,Headphones,Accessories,2500,1700
+106,Office Chair,Furniture,8500,6000
+107,Desk,Furniture,12000,8500
+108,Webcam,Electronics,3500,2400
+109,Printer,Electronics,18000,14000
+110,USB Hub,Accessories,1500,900
